@@ -7,7 +7,7 @@
 # Optional contact for ad-tech inquiries:
 # contact=cto@witshells.com
 
-google.com, pub-5505051331408030, DIRECT, f08c47fec0942fa0
+google.com, pub-3383261780848963, DIRECT, f08c47fec0942fa0
 aralego.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
 contextweb.com, 562726, RESELLER, 89ff185a4c4e857c
 themediagrid.com, FALINO, RESELLER, 35d5010d7789b49d
